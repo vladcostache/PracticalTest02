@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">PORT</string>
+    <string name="connect">START</string>
+    <string name="client">CLIENT</string>
+    <string name="currency">CURRENCY</string>
+    <string name="get_currency">GET VALUE</string>
+</resources>
